@@ -1,0 +1,6 @@
+@media (max-width: 480px ) {
+    .nav-li:not(.active) { display: none;}
+    .burger { display: block;}
+    .navwraper {display: flex;}
+}
+
